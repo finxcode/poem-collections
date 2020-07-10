@@ -83,3 +83,7 @@ h3 {
   text-align: center;
   background-color: #3b3b3b;
 }
+
+.separator {
+  height: 2em;
+}
